@@ -8,3 +8,9 @@ Selles artiklis selgitame kõigepealt neid kahte põhimõtet. Seejärel uurime l
 
 5. 1. programmi koodideks või hooidaks
    2. märkmete või tööte jaoks
+ 
+ 7.Githubi ajaloo (osa) 
+ looja Thomas Dohmke (Nov 15, 2021–)
+ Githubi releases date April 2008
+ 
+ 
