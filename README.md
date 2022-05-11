@@ -8,3 +8,4 @@ Selles artiklis selgitame kõigepealt neid kahte põhimõtet. Seejärel uurime l
 
 5. 1. programmi koodideks või hooidaks
    2. märkmete või tööte jaoks
+
