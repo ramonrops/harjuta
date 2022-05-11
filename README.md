@@ -5,3 +5,6 @@ Kõrgel tasemel on GitHub veebisait ja pilvepõhine teenus, mis aitab arendajate
 Versiooni juhtimine
 Git
 Selles artiklis selgitame kõigepealt neid kahte põhimõtet. Seejärel uurime lähemalt GitHubi ja selle kohta, kuidas saate GitHubi WordPressi ja/või Kinstaga töötamiseks tegelikult kasutada.
+
+5. 1. programmi koodideks või hooidaks
+   2. märkmete või tööte jaoks
