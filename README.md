@@ -1,2 +1,2 @@
-# harjuta
+# harjutamise
 versioonihalduse misega GitHubis
