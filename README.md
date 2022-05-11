@@ -1,2 +1,2 @@
-# harjutamise
+# harjutamine.txt
 versioonihalduse misega GitHubis
